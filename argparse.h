@@ -84,7 +84,7 @@ struct argparse_option {
 };
 
 /**
- * argpparse
+ * argparse
  */
 struct argparse {
     // user supplied
