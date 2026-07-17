@@ -1,2 +1,3 @@
 # argparse
-A lightweight command-line argument parsing library for C
+
+A lightweight C command-line argument parsing library inspired by cofyc/argparse.
